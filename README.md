@@ -67,10 +67,10 @@ A beautiful and intuitive React Native mobile application for creating, organizi
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/study-notes-pro.git
+git clone https://github.com/Dipak-sahani/React-Native-Cli-Application-BrainLocker.git
 
 # Navigate to project directory
-cd study-notes-pro
+cd React-Native-Cli-Application-BrainLoacker
 
 # Install dependencies
 npm install
